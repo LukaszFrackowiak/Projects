@@ -1,1 +1,1 @@
-
+image_analyzer.nb is a script that allows us analyze a series of images of magnetic domain evolution. Script has few parts: we can select the appropriate part of the image, measure hysteresis loop as a value of mean intesnity vs applied external magnetic field, and can measure which and how many of squares (more about sqaures you can find https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.047203) has been switched
